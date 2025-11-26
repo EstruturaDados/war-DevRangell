@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "territorio.C": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
